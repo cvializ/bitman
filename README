@@ -1,0 +1,15 @@
+Student Name: Carlos Alexander Vializ
+Student ID #: 905549342
+
+PROGRAM NAME : bitman - A parser for a simple bit-manipulation grammar.
+
+SYNOPSIS : (how to invoke the program) bitman < input.txt > outputfile.txt
+  bitman takes one or more lines of input from stdin
+  and prints input and results to stdout.
+
+DESCRIPTION : (what works and what does not)
+    bitman evalutates and computes any valid expression
+    according to the supplied grammar. bitman, however,
+    has limited error-checking capabilities and given
+    malformed input it may produce incorrect output.
+
