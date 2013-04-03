@@ -1,3 +1,5 @@
+/* hexnumber.h */
+
 #ifndef __HEXNUMBER_H__
 #define __HEXNUMBER_H__
 
